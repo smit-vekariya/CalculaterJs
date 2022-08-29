@@ -1,5 +1,4 @@
 var result;
-var result2;
 function buttonPressed(key){
         result=document.getElementById('textdisplay').value+=key;
 }
