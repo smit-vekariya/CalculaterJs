@@ -14,7 +14,6 @@ function buttonPressedResult(){
 }
 function buttonPressedC(){
      document.getElementById('textdisplay').value ='';
-     git remote add origin https://github.com/smit-vekariya/CalculaterJS.git
 
 }
 function buttonPressedCE(){
